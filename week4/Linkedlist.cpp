@@ -876,7 +876,7 @@ int main()
     freeList(list18_5);
     freeList(emptyList18);
     std::cout << "Passed" << std::endl;
-    std::cout << "--- End running test cases --" << std::endl;
+    std::cout << "--- End running test cases ---" << std::endl;
     
     return 0;
 }
